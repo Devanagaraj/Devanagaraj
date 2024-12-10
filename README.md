@@ -1,16 +1,25 @@
-## Hi there 👋
+## ✋ வணக்கம் | Hello | Hallo 
+I am Devanagaraj, 25 y/o Developer.
 
-<!--
-**Devanagaraj/Devanagaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Freelancing projects
+- 🌱 I’m currently learning Svelte, LLMs
+- 🗺 I'm currently residing at Oslo, Norway.
 
-Here are some ideas to get you started:
+# Skills
+## Programming Languages
+- Python, Java, JavaScript, GraphQL, HTML5, CSS/SCSS.
+## Frameworks
+- Spring Boot, Spring MVC, FastAPI.
+## Databases
+- MySQL, PostgreSQL, MongoDB.
+## Tools & Technologies
+- Alfresco Content Services, Migration Tools, nginx, OpenAI, LLMs, Kubernetes, Docker, Selenium, Dialogflow.
+## Cloud Techs
+- Azure, AWS, GCP, Vultr
+## OS
+- Debian on servers, Ubuntu, Windows
+## Version Control
+- Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+![Visitors:](https://komarev.com/ghpvc/?username=devanagaraj&style=flat&base=1212)
